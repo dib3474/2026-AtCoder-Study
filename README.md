@@ -16,12 +16,12 @@
   채점 결과 : `AC(accepted)` `TLE(Time Limit Exceeded)` `MLE(Memory Limit Exceeded)` `WA(Wrong Answer)`
 
   commit 메세지: 문제: [채첨결과]
-  ex) A: AC
+  ex) `A: AC`
 
 - **PR 규칙**
 
-  PR 제목: 대회 이름 / AtCoder 핸들
-  ex) ABC### / cnvxlns
+  PR 제목: 대회 이름 / GithubId  
+  ex) `ABC### / cnvxlns`
   comment는 각 문제마다 풀이 방법과 어려웠던 내용을 설명합니다.
 
 - **코드리뷰**
@@ -29,6 +29,8 @@
   PR에서 리뷰를 합니다. 코드의 각 줄에 리뷰를 해도 좋고, 전체 코드에 대한 느낀점이나 배운점을 작성해도 좋습니다.
 
   또한 상대방의 코드를 보고 개선점이나 의문점을 마음껏 적어도 좋습니다.
+
+  **매주 금요일 18시 쯤 머지 할 계획입니다. 되도록 그 전까지만 활동 해주세요.**
 
 ## Git 명령어
 
